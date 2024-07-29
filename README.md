@@ -10,7 +10,7 @@ Ensure that certain features, like adding listings or favoriting properties, are
 ## Language and tools used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,py,next.js,tailwind,vscode,css,html,node.js,flask,vercel,npm,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,js,mongodb,react,redux,nodejs,tailwind,vscode,css,html,npm" />
   </a>
 </p>
 
@@ -102,24 +102,13 @@ Get Listings: `/api/listing/get` (GET)
 - Deployment: Render
 
 
-## Screenshots📸
+## Deployment
 
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/fed29361-1ba2-4eef-8437-00735746fab6)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/df1124b5-2e20-4e7f-ab42-7c17710d5a36)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/bb53a619-90bb-4353-9a08-d953197a7e8b)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/048f7700-9881-4cd4-a2e3-3adfbf285245)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/3f123369-b3b8-4411-a2b3-ddd8df7e7fc5)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/f7c6a6ab-ccf3-4d5f-9903-26ae9bdf3b02)
-
-![App Screenshot](https://github.com/D-4-DIBAKAR/MERN-Real-Estate/assets/71878062/20a909ff-8907-4ad0-be32-85c065d3c798)
+This website is deployed on Render. Link : [Home Harbor](https://home-harbor-7yg7.onrender.com/).
 
 ## 🚀 About Me
 
-### Hi 👋, I'M ANNPURNA GUPTA
-
-I'm Passionate Full Stack Developer crafting seamless frontend experiences and powerful backend solutions. Expert in React.js and Node.js
+- Annpurna Gupta
+    -  Email: annpurnagupta040401@gmail.com
+    -  GitHub: [Annpurna Gupta](https://github.com/annpurna04)
+    -  LinkedIn: [Annpurna Gupta](https://www.linkedin.com/in/annpurna-gupta-2b5b0b221/)
